@@ -1,0 +1,9 @@
+﻿name: JoinMessage
+main: ppodds.other.joinmessage.JoinMessage
+version: 1.0.0
+commands:
+  msg:
+    description: 總指令
+permissions:
+  joinmessage.admin:
+    default: OP
